@@ -7,3 +7,10 @@ Hellow everyone
 #include<iostream>
 vector<int> vect;
 ```
+
+- [ ] Study
+- [x] Pray
+- [ ] Fast
+- [ ] Memorize
+
+# Another H1 content
